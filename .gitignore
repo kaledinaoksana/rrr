@@ -1,0 +1,4 @@
+*.ipg
+/trump_images
+/facial-keypoints-detection
+/*_env
