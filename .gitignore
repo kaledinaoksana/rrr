@@ -2,3 +2,5 @@ data/
 models/
 tokens/
 *_env/
+.DS_Store
+*_cache/
