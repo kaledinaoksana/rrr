@@ -3,6 +3,6 @@ data/trump_images/
 models/
 tokens/
 *_env/
-.DS_Store
+*.DS_Store*
 *_cache/
 annotations/
